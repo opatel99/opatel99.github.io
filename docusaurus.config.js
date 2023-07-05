@@ -58,23 +58,48 @@ const config = {
       // image: 'img/docusaurus-social-card.jpg',
       navbar: {
         title: '✍🏽 Ohm\'s Blog',
-        items: [
-          {
-            href: 'https://github.com/facebook/docusaurus',
-            label: 'GitHub',
-            position: 'right',
-          },
-        ],
       },
       footer: {
         style: 'dark',
-
+        links: [
+          {
+            title: 'Socials',
+            items: [
+              {
+                label: 'Instagram',
+                href: 'instagram.com/opatel99',
+              },
+              {
+                label: 'Facebook',
+                href: 'facebook.com/opatel99',
+              },
+            ],
+          },
+          {
+            title: 'Connect',
+            items: [
+              {
+                label: 'LinkedIn',
+                href: 'linkedin.com/in/ohm-patel',
+              },
+              {
+                label: 'Facebook',
+                href: 'github.com/opatel99',
+              },
+            ],
+          }
+        ],
         copyright: `Copyright © ${new Date().getFullYear()} Ohm J. Patel. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
       },
+      colorMode: {
+        defaultMode: 'dark',
+        disableSwitch: true,
+        respectPrefersColorScheme: true,
+      }
     }),
 };
 
