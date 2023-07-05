@@ -67,11 +67,11 @@ const config = {
             items: [
               {
                 label: 'Instagram',
-                href: 'instagram.com/opatel99',
+                href: 'https://www.instagram.com/opatel99',
               },
               {
                 label: 'Facebook',
-                href: 'facebook.com/opatel99',
+                href: 'https://www.facebook.com/opatel99',
               },
             ],
           },
@@ -80,11 +80,11 @@ const config = {
             items: [
               {
                 label: 'LinkedIn',
-                href: 'linkedin.com/in/ohm-patel',
+                href: 'https://www.linkedin.com/in/ohm-patel',
               },
               {
                 label: 'Facebook',
-                href: 'github.com/opatel99',
+                href: 'https://www.github.com/opatel99',
               },
             ],
           }
