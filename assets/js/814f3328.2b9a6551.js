@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkopatel_99_blog=self.webpackChunkopatel_99_blog||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Anyone can code","permalink":"/2023/07/05/anyone_can_code"},{"title":"Hello, world!","permalink":"/2023/07/04/hello_world"}]}')}}]);
