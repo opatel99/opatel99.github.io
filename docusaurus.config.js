@@ -83,13 +83,13 @@ const config = {
                 href: 'https://www.linkedin.com/in/ohm-patel',
               },
               {
-                label: 'Facebook',
+                label: 'Github',
                 href: 'https://www.github.com/opatel99',
               },
             ],
           }
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} Ohm J. Patel. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Ohm J. Patel<br/>Made with ❤ and <a href="https://github.com/facebook/docusaurus">Docusaurus.</a>`,
       },
       prism: {
         theme: lightCodeTheme,
